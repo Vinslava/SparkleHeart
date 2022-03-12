@@ -1,2 +1,0 @@
-# SparkleHeart
-Updated SparkleHeart Website
